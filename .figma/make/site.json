@@ -1,0 +1,10 @@
+{
+  "description": "Streamlines after-sales services for clothing brands by managing damaged inventory recovery, garment repairs, and customer communication efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
